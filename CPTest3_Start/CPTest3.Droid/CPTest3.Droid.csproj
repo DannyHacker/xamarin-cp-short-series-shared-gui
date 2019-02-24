@@ -61,6 +61,6 @@
     <AndroidResource Include="Resources\mipmap-xxhdpi\Icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\Icon.png" />
   </ItemGroup>
-  <Import Project="..\CPTest3\CPTest3.Shared.projitems" Label="Shared" Condition="Exists('..\CPTest3\CPTest3.Shared.projitems')" />
+  <Import Project="..\CPTest3.Shared\CPTest3.Shared.projitems" Label="Shared" Condition="Exists('..\CPTest3.Shared\CPTest3.Shared.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
