@@ -6,7 +6,7 @@
     <SharedGUID>{69C535EC-AFE2-40D3-A993-F8939534E8BB}</SharedGUID>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
-    <Import_RootNamespace>CPTest2</Import_RootNamespace>
+    <Import_RootNamespace>CPTest3</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)Calculate.cs" />
